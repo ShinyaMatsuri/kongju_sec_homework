@@ -1,5 +1,3 @@
-import random
-
 p=509
 q=431
 n=p*q
